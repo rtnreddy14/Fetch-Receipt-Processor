@@ -11,7 +11,8 @@ Server runs on port 8080
 Access the api using http://localhost:8080
 
 
-API Endpoints
-POST /receipts/process - Submit a receipt for processing.
-GET /receipts/{id}/points - Retrieve points for a specific receipt by ID.
-GET /receipts/{id} - Retrieve receipt data for a specific receipt by ID.
+## API Endpoints
+
+- **POST** `/receipts/process` - Submit a receipt for processing.
+- **GET** `/receipts/{id}/points` - Retrieve points for a specific receipt by ID.
+- **GET** `/receipts/{id}` - Retrieve receipt data for a specific receipt by ID.
