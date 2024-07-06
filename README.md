@@ -4,7 +4,7 @@ Coding Challenge Fetch Backend Developer
 ## Overview
 The Receipt Processor Web Service is designed to process receipts, calculate points based on purchase details, and allow retrieval of receipt data via a RESTful API.
 
-#Run the application 
+# Run the application 
 go run main.go
 
 Server runs on port 8080
